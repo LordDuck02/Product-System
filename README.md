@@ -1,4 +1,4 @@
 # Product-System
 This c++ code lets you add, remove and see products.
-#Why?
+# Why?
 I had to pratice with something, also, why not?
